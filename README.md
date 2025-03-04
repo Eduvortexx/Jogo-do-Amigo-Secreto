@@ -24,5 +24,14 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
    ![image](https://github.com/user-attachments/assets/984d301b-496d-4452-a761-002c4a7ce513)
 
+   ![image](https://github.com/user-attachments/assets/82570eca-1287-47fe-95de-04f2cf63068f)
+
+   ![image](https://github.com/user-attachments/assets/c8ef5bd5-79ef-4017-bcc4-71857b40ab8e)
+
+   ![image](https://github.com/user-attachments/assets/6d0990ff-5b96-450b-8ce2-ddd6f1d4ba7c)
+
+
+
+
    
 
