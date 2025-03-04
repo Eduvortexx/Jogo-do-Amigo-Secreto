@@ -15,7 +15,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - **JavaScript**: Implementação da lógica do sorteio e interatividade
 
 ## Como Funciona?
-1. O usuário adiciona nomes na lista (sem repetir).
+1. O usuário adiciona nomes na lista. 
 2. O jogo sorteia um único nome da lista.
 3. O nome sorteado é exibido na tela.
 4. Se nenhum nome for escrito e o botão de adicionar for tocado, uma mensagem de erro aparecerá, pedindo para que seja adicionado um nome válido.
