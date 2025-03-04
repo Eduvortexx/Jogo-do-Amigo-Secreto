@@ -19,3 +19,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 2. O jogo sorteia um único nome da lista.
 3. O nome sorteado é exibido na tela.
 4. Se nenhum nome for escrito e o botão de adicionar for tocado, uma mensagem de erro aparecerá, pedindo para que seja adicionado um nome válido.
+
+   A SEGUIR IMAGENS DO JOGO:
+
+   ![image](https://github.com/user-attachments/assets/984d301b-496d-4452-a761-002c4a7ce513)
+
+   
+
