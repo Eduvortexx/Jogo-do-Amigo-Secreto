@@ -30,6 +30,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
    ![image](https://github.com/user-attachments/assets/6d0990ff-5b96-450b-8ce2-ddd6f1d4ba7c)
 
+   ![image](https://github.com/user-attachments/assets/314b706b-1de2-4836-af00-a5e353923de5)
+
+
 
 
 
